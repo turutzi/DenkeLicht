@@ -5,7 +5,7 @@ Hallo
 dieses ist die Projekt Seite zu dem DenkeLicht.
 
 Das DenkeLicht ist eine kleine Idee wie man sieht, dass jemand an einen denkt.
-Der erfahren Programmierer/Bastler/Tüftler sollte sich im "Hardware Ordner zurecht finden, dort sind schaltplan und Infos zur Platine hinterlegt sowie die STL files zum selber ausdrucken des Gehäuses.
+Der erfahren Programmierer/Bastler/Tüftler sollte sich im "Hardware" Ordner zurecht finden, dort sind schaltplan und Infos zur Platine hinterlegt sowie die STL files zum selber ausdrucken des Gehäuses.
 
 Für alle die, welche noch nicht so viel erfahrung haben und das DenkeLicht auch als solches beutzen wollen für all diese gibt es den "Getting started" Ordner. Dort ist alles drin was benötigt wird um das DenkeLicht als solches zum laufen zu bekommen.
 
